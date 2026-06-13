@@ -22,7 +22,7 @@ export const projects: Project[] = [
       "It also demonstrates practical implementation of SEO best practices using Next.js metadata API, along with mobile-first responsive design principles and clean component composition.",
     ],
     tags: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
-    githubUrl: "https://github.com/jassimbashir01/portfolio",
+    githubUrl: "https://github.com/jassimbashir01/personal-portfolio-project",
     liveUrl: "https://jassimbashir.com",
   },
   {
@@ -38,7 +38,7 @@ export const projects: Project[] = [
       "It also demonstrates practical implementation of SEO best practices using Next.js metadata API, along with mobile-first responsive design principles and clean component composition.",
     ],
     tags: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
-    githubUrl: "https://github.com/jassimbashir01/portfolio",
+    githubUrl: "https://github.com/jassimbashir01/personal-portfolio-project",
     liveUrl: "https://jassimbashir.com",
   },
   {
@@ -54,7 +54,7 @@ export const projects: Project[] = [
       "It also demonstrates practical implementation of SEO best practices using Next.js metadata API, along with mobile-first responsive design principles and clean component composition.",
     ],
     tags: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
-    githubUrl: "https://github.com/jassimbashir01/portfolio",
+    githubUrl: "https://github.com/jassimbashir01/personal-portfolio-project",
     liveUrl: "https://jassimbashir.com",
   },
 ];
